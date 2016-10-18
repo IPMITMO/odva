@@ -19,3 +19,6 @@
 [submodule "ansible/roles/nginx"]
 	path = ansible/roles/nginx
 	url = https://github.com/gitinsky/ansible-role-nginx.git
+[submodule "ansible/roles/netdata"]
+	path = ansible/roles/netdata
+	url = https://github.com/gitinsky/ansible-role-netdata.git

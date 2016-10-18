@@ -11,3 +11,4 @@
   - role: grafana-container
   - role: nginx
   - role: nginx-odva
+  - role: netdata
